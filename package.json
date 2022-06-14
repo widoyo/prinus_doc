@@ -1,0 +1,16 @@
+{
+  "name": "prinus_doc",
+  "version": "1.0.0",
+  "description": "Dokumen untuk Pengelola/Pengguna Prinus",
+  "main": "index.js",
+  "repository": "https://github.com/widoyo/prinus_doc",
+  "author": "Widoyo",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+	  "docs:dev": "vuepress dev docs",
+	  "docs:build": "vuepress build docs"
+  }
+}
