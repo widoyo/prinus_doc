@@ -1,4 +1,8 @@
 module.exports = {
-	title: 'Hello Vuepress',
-	description: 'Just playing araund'
+	plugins: ['@vuepress/last-updated'],
+	title: 'Dokumen prinus',
+	description: 'Dokumen segala hal tentang produk dan operasinya',
+	themeConfig: {
+		lastUpdated: 'Last Updated', // string | boolean
+	}
 }

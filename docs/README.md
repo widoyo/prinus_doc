@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /img/prinus.png
 heroText: Dokumen prinus
 tagline: Tentang sistem prinus, primabot dan pengoperasian
 actionText: Mulai →
